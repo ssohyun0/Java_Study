@@ -15,6 +15,8 @@ public class Var7 {
         System.out.println(e);
         // ** 단축키 : command + d **
 
+
+
         // 리터럴(literal) : 코드에서 개발자가 직접 적은 고정된 값
         // ex. 100, 10,5, true ..
     }

@@ -1,5 +1,6 @@
 package Section02_HelloWorld;
 public class CommentJava {
+
     public static void main(String[] args) { //psvm 입력
         System.out.println("hello java1"); //sout 입력
         //System.out.println("hello java2");
@@ -11,3 +12,4 @@ public class CommentJava {
 
     }
 }
+
