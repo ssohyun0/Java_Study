@@ -15,3 +15,4 @@
 
 ## 📓 Notion 정리 링크
 - [김영한의 자바 입문 - 코드로 시작하는 자바 첫걸음](https://acute-diagnostic-51a.notion.site/22c5d438f16380c2840bc0b977f115a4?source=copy_link)
+- [김영한의 실전 자바 - 기본편](https://acute-diagnostic-51a.notion.site/2345d438f16380d39bebf29fd2593c5d?source=copy_link)
